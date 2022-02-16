@@ -10,7 +10,7 @@
 - :triangular_flag_on_post: Software developer with 3+ years of experience in developing web crawler in c#, developing Web sites/Apps and Mobile Apps with Javascript, React and React-Native.
 - I have been a monitor of algorithms and data structures.
 - I did a year of internship at Thomson Reuters, where I work developing and maintaining Crawlers.
-- I did a ten months work developing and maintaining Web and Mobile Apps.
+- I did a 1+ work developing and maintaining Web and Mobile Apps.
 - ⚡ Graduating in System Information
 - 🚀 Main Tecnologies: JavaScript, React and React-Native, Python, ASP.NET Core, Java
 
