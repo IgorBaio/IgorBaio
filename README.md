@@ -15,6 +15,6 @@
 - 🚀 Main Tecnologies: JavaScript, React and React-Native, Python, ASP.NET Core, Java
 
 ### Other infos
-- I am a gratuated in Information Systems.
+- I am gratuated in Information Systems.
 - During the quarantine I have studied a lot on the topics of Machine Learning, fullstack and Mobile.
 - I launched two apps on Google Play and keep investing my knowledge and creativity in new opportunities
