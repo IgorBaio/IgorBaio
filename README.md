@@ -11,10 +11,10 @@
 - I have been a monitor of algorithms and data structures.
 - I did a year of internship at Thomson Reuters, where I work developing and maintaining Crawlers.
 - I did a 1+ work developing and maintaining Web and Mobile Apps.
-- ⚡ Graduating in System Information
+- ⚡ Bachelor of Information Systems
 - 🚀 Main Tecnologies: JavaScript, React and React-Native, Python, ASP.NET Core, Java
 
 ### Other infos
-- I am a student of Information Systems, I am currently in the 8th period.
+- I am a gratuated in Information Systems.
 - During the quarantine I have studied a lot on the topics of Machine Learning, fullstack and Mobile.
 - I launched two apps on Google Play and keep investing my knowledge and creativity in new opportunities
